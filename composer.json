@@ -15,12 +15,5 @@
         "psr-4": {
             "Kushal\\ContactUs\\": "src/"
         }
-    },
-    "extra": {
-        "laravel": {
-            "providers": [
-                "Kushal\\ContactUs\\ContactUsServiceProvider"
-            ]
-        }
     }
 }
